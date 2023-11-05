@@ -18,4 +18,4 @@ DDoS Stresser v7 For Windows (Recommend Windows 8+)
 * for udp and other sometimes attacking is working but target not got any packet (mean ISP are blocked or good firewall)
 # Download Release Version:
 * [Windows](https://github.com/MrGh0sTDev/DDoS-Stresser-v7/blob/main/DDoS%20Stresser/bin/Release/DDoS%20Stresser.exe)
-* [Android](https://github.com/MrGh0sTDev/DDoS-Stresser-v7/tree/main)https://github.com/MrGh0sTDev/DDoS-Stresser-v7/tree/main) (Coming Soon)
+* [Android](https://github.com/MrGh0sTDev/DDoS-Stresser-v7/tree/main) (Coming Soon)
