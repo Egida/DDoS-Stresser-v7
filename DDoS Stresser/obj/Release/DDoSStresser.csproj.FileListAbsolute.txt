@@ -1,0 +1,10 @@
+D:\Fake\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\obj\Release\DDoSStresser.csproj.AssemblyReference.cache
+D:\Fake\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\obj\Release\DDoSPacket_For_Windows.Form1.resources
+D:\Fake\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\obj\Release\DDoSStresser.Properties.Resources.resources
+D:\Fake\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\obj\Release\DDoSStresser.csproj.GenerateResource.cache
+D:\Fake\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\obj\Release\DDoSStresser.csproj.CoreCompileInputs.cache
+D:\Fake\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\bin\Release\DDoS Stresser.exe.config
+D:\Fake\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\bin\Release\DDoS Stresser.exe
+D:\Fake\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\bin\Release\DDoS Stresser.pdb
+D:\Fake\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\obj\Release\DDoS Stresser.exe
+D:\Fake\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows-main\DDoSPacket-For-Windows\DDoSPacket-For-Windows\obj\Release\DDoS Stresser.pdb
