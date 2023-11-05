@@ -7,7 +7,7 @@ DDoS Stresser v7 For Windows (Recommend Windows 8+)
 # Warning
 * We are not responsible for any damage caused by this program please legally to use only!
 # Screenshot
-![image](https://user-images.githubusercontent.com/47820634/161378989-47f62324-c646-4e5d-b3da-827dd3cb5b00.png)
+![image](https://github.com/MrGh0sTDev/DDoS-Stresser-v7/blob/main/DDoS%20Stresser/DDoS%20Stresser.PNG)
 # Methods
 * UDP
 * TCP
