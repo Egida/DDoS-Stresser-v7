@@ -16,7 +16,6 @@ DDoS Stresser v7 For Windows (Recommend Windows 8+)
 # Common issues
 * For tcp procotol if you starting attack and then that crash make sure target port are opened (we need connecting to server first)
 * for udp and other sometimes attacking is working but target not got any packet (mean ISP are blocked or good firewall)
-# Other platform version
-DDoS Packet is have 2 platform support (Windows and Android)
-* [Windows](https://github.com/fusedevgithub/DDoSPacket-For-Windows/)
-* [Android](https://github.com/fusedevgithub/DDoSPacket) (Original)
+# Download Release Version:
+* [Windows](https://github.com/MrGh0sTDev/DDoS-Stresser-v7/blob/main/DDoS%20Stresser/bin/Release/DDoS%20Stresser.exe)
+* [Android](https://github.com/MrGh0sTDev/DDoS-Stresser-v7/tree/main)https://github.com/MrGh0sTDev/DDoS-Stresser-v7/tree/main) (Coming Soon)
