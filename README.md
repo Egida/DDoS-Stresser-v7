@@ -1,5 +1,5 @@
-# DDoSPacket-For-Windows
-DDoSPacket For Windows (Recommend Windows 8+)
+# DDoS Stresser v7
+DDoS Stresser v7 For Windows (Recommend Windows 8+)
 
 ![DDoSPacketWindowsIcon](https://user-images.githubusercontent.com/47820634/161378851-3a6d57a5-b69d-4896-b8c8-67ea8b542b91.png)
 # What is DDoS Packet
