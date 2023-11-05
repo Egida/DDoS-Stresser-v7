@@ -1,7 +1,7 @@
 # DDoS Stresser v7
 DDoS Stresser v7 For Windows (Recommend Windows 8+)
 
-![Alt text](image link)
+![DDoS Stresser v7]([image link](https://github.com/MrGh0sTDev/DDoS-Stresser-v7/blob/main/DDoS%20Stresser/ddos.jpg))
 # What is DDoS Packet
 * DDoS Packet is ddos program write with C# and .NET for Troll someone or education
 # Warning
